@@ -6,3 +6,4 @@ Feature: Validate Gesture Feature
     When I tap on Expandable Lists
     Then I click Custom Adapter
     Then I click People Names and get Title
+    Then I click People Names and get Title
